@@ -15,7 +15,9 @@ and press the key combo to toggle seen/unseen.
 
 Place the ranger-seen.py somewhere out of way,
 and add the next line in your ~/.config/ranger/rc.conf
+
 > map .s shell python path/to/ranger-seen.py -d %d -f %f
+
 make sure to change the path and keybinding to your liking.
 
 ## Demo
