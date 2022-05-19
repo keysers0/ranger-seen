@@ -11,11 +11,15 @@ You could also use ranger's inbuilt tags to
 achieve similair results that are only visible 
 when using ranger. few examples of such keybinds
 
->> t         // puts a default * tag.
->> "+        // puts a + tag.
->> "~        // puts a ~ tag.
->> "x        // puts a x tag.
->> ut        // deletes currently applied tag. All previously mentioned binds also have toggle functionability.
+> t         // puts a default * tag.
+
+> "+        // puts a + tag.
+
+> "~        // puts a ~ tag.
+
+> "x        // puts a x tag.
+
+> ut        // deletes currently applied tag. All previously mentioned binds also have toggle functionability.
 
 ## Usage
 
