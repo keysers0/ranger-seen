@@ -12,13 +12,9 @@ achieve similair results that are only visible
 when using ranger. few examples of such keybinds
 
 > t         // insert default * tag.
-
 > "+        // insert + tag.
-
 > "~        // insert ~ tag.
-
 > "x        // insert x tag.
-
 > ut        // deletes currently applied tag. All previously mentioned binds also have toggle functionability.
 
 ## Usage
