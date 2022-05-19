@@ -20,7 +20,7 @@ Shortcut | Description
 
 ## Usage
 
-You can toggle with a key of your choice, mine was .s
+You can toggle with a key of your choice, mine was '.s'
 All you have to do is highlight the file in ranger
 and press the key combo to toggle seen/unseen.
 
