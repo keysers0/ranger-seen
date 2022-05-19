@@ -18,7 +18,7 @@ keybind | Description
 `"x` | inserts x tag
 `ut`| removes current tag
 
-Above mentionted keybinds also have toggle functionability.
+Above mentioned keybinds except last also have toggle functionability.
 
 ## Usage
 
