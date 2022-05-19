@@ -8,11 +8,10 @@ so I made something similair in python.
 
 ### Note 
 You could also use ranger's inbuilt tags to 
-achieve similair results`:bulkrename %s`
- that are only visible 
+achieve similair results that are only visible 
 when using ranger. few examples of such keybinds
 
-Shortcut | Description 
+keybind | Description 
 ---|---
 `t` | inserts default * tag
 `"+` | inserts + tag
