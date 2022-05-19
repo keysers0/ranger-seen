@@ -18,6 +18,8 @@ keybind | Description
 `"x` | inserts x tag
 `ut`| removes current tag
 
+Above mentionted keybinds also have toggle functionability.
+
 ## Usage
 
 You can toggle with a key of your choice, mine was `.s`
