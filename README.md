@@ -11,7 +11,7 @@ You could also use ranger's inbuilt tags to
 achieve similair results that are only visible 
 when using ranger. few examples of such keybinds
 
-> t         // insert default * tag.
+> t         // insert default * tag. \n
 > "+        // insert + tag.
 > "~        // insert ~ tag.
 > "x        // insert x tag.
